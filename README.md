@@ -14,20 +14,20 @@
     </thead>
     <tbody> <tr>
             <td>Django Todo App</td>
-            <td><a href="https://github.com/FaziletKosure/mern_shop_project" target="_blank">Repo details</a></td>
-            <td><a href="https://mern-shop-project.herokuapp.com/" target="_blank">📽 App Demo</a></td>
+            <td><a href="https://github.com/FaziletKosure/Django_todo_app" target="_blank">Repo details</a></td>
+            <td><a href="http://fazilet.pythonanywhere.com/" target="_blank">📽 App Demo</a></td>
             <td><img src="./drf.png"alt="react" ></td> 
         </tr>
         <tr>
             <td>Django News App</td>
-            <td><a href="https://github.com/FaziletKosure/React_Movies_App" target="_blank">Repo details</a></td>
-            <td><a href="https://react-movies-project.herokuapp.com/" target="_blank">📽 App Demo</a></td>
+            <td><a href="https://github.com/FaziletKosure/Django_news_app" target="_blank">Repo details</a></td>
+            <td><a href="https://django-news1-project.herokuapp.com/" target="_blank">📽 App Demo</a></td>
             <td><img src="./drf.png" alt="react" ></td> 
         </tr>
         <tr>
             <td>Django Weather App</td>
-            <td><a href="https://github.com/FaziletKosure/React_Apple_App" target="_blank">Repo details</a></td>
-            <td><a href="https://react-apple-app.herokuapp.com/" target="_blank">📽 App Demo</a></td>
+            <td><a href="https://github.com/FaziletKosure/Django_weather_app" target="_blank">Repo details</a></td>
+            <td><a href="https://django-weather1-project.herokuapp.com/">📽 App Demo</a></td>
             <td><img src="drf.png"alt="react" ></td> 
         </tr>
         <!-- <tr>
