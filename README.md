@@ -28,7 +28,7 @@
             <td>Django Weather App</td>
             <td><a href="https://github.com/FaziletKosure/React_Apple_App" target="_blank">Repo details</a></td>
             <td><a href="https://react-apple-app.herokuapp.com/" target="_blank">📽 App Demo</a></td>
-            <td><img src="./content_heart-react.gif"alt="react" ></td> 
+            <td><img src="drf.png"alt="react" ></td> 
         </tr>
         <!-- <tr>
             <td>React Web App</td>
