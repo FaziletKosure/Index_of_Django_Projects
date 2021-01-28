@@ -16,19 +16,19 @@
             <td>Django Todo App</td>
             <td><a href="https://github.com/FaziletKosure/Django_todo_app" target="_blank">Repo details</a></td>
             <td><a href="http://fazilet.pythonanywhere.com/" target="_blank">📽 App Demo</a></td>
-            <td><img src="./drf.png"alt="react" ></td> 
+            <td><img src="./python.png"alt="react" ></td> 
         </tr>
         <tr>
             <td>Django News App</td>
             <td><a href="https://github.com/FaziletKosure/Django_news_app" target="_blank">Repo details</a></td>
             <td><a href="https://django-news1-project.herokuapp.com/" target="_blank">📽 App Demo</a></td>
-            <td><img src="./drf.png" alt="react" ></td> 
+            <td><img src="./python.png" alt="react" ></td> 
         </tr>
         <tr>
             <td>Django Weather App</td>
             <td><a href="https://github.com/FaziletKosure/Django_weather_app" target="_blank">Repo details</a></td>
             <td><a href="https://django-weather1-project.herokuapp.com/">📽 App Demo</a></td>
-            <td><img src="drf.png"alt="react" ></td> 
+            <td><img src="python.png"alt="react" ></td> 
         </tr>
         <!-- <tr>
             <td>React Web App</td>
