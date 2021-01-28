@@ -3,7 +3,7 @@
     <h1 align="center">Index of Django Projects</h1>
 </p>
 
-<table>
+<table align="center">
     <thead>
         <tr>
             <td>Project Name</td>
